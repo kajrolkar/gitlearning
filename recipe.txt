@@ -5,3 +5,6 @@ mattar
 butter
 jira
 tomato
+chicken
+lemon
+chicken masala
